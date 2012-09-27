@@ -1,0 +1,5 @@
+== ReaBanks ==
+
+This is a collection ReaBank files.  A ReaBank file is a list of
+synthesiser presets (banks and programs) for Reaper.  It allows you
+to easily bring up a synthesiser patch directly via the DAW.
