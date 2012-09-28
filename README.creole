@@ -1,5 +1,19 @@
-== ReaBanks ==
+== Harvest ==
 
-This is a collection ReaBank files.  A ReaBank file is a list of
-synthesiser presets (banks and programs) for Reaper.  It allows you
-to easily bring up a synthesiser patch directly via the DAW.
+The Harvest project is a collection of files that are useful to
+people using the [[http://www.reaper.fm/|Reaper]] DAW, such as preset
+lists and note maps.
+
+=== MIDI Drum Maps ===
+
+A MIDI drum map is a list of names for MIDI notes.  Whereas pitched
+instruments share common note names such as C sharp or B flat, atonal
+percussive instruments often create a completely different timbre
+for each MIDI note.  These maps keep track of which drum sound is
+triggered by playing which note.
+
+=== ReaBanks ===
+
+A ReaBank file is a list of synthesiser presets (banks and programs)
+for Reaper.  It allows you to easily bring up a synthesiser patch
+directly via the DAW.
