@@ -1,132 +1,132 @@
-// Roland MKS-50 programs.  ReaBank file by ZoeB.
+//	Roland MKS-50 programs.  ReaBank file by ZoeB.
 
-Bank 0 0 N/A
+Bank	0 0 N/A
 
-0 Poly synth 1
-1 Jazz guitar
-2 Xylophone
-3 Low strings
-4 Lead synth 1
-5 Chorus guitar
-6 Synth bass 1
-7 Electro drum
-8 High strings
-9 Techno strings
-10 String organ
-11 Fast strings
-12 Long strings
-13 Cello
-14 Solo violin
-15 Pizzicato
-16 Piano 1
-17 Electric piano 1
-18 Electric piano 2
-19 Piano 2
-20 Electric piano 3
-21 Clav.
-22 Harpsichord
-23 Piano pad
-24 Organ 1
-25 Organ 2
-26 Cheesy organ
-27 Pipe organ 1
-28 Pipe organ 2
-29 Voice pad
-30 Sinusoidal
-31 Voices 1
-32 Brass 1
-33 Syn rise
-34 Spit valve
-35 Fat synth
-36 Arpeggiator
-37 Velo-reso 1
-38 Big brass
-39 Pad 1
-40 Lead synth 2
-41 Lead synth 3
-42 Flute
-43 Lead synth 4
-44 Sax
-45 Electric bass 1
-46 Synth bass 2
-47 Sequencer bass
-48 Bells 1
-49 Bell chime 1
-50 Bell chime 2
-51 Syn-bello
-52 Marimba
-53 Synth koto
-54 Steel drum band
-55 Harp
-56 Tron blast
-57 Noise shots
-58 Twilight Zone
-59 Scratchin'
-60 Syn echo
-61 Pole position
-62 UFO
-63 Timps
-64 Brass 2
-65 Brass 3
-66 Brass horns
-67 Fat brass 1
-68 Trumpets
-69 Brass swell
-70 Poly synth 2
-71 Poly synth 3
-72 Bowed strings
-73 Rich strings
-74 Orchestra
-75 Syn orchestra
-76 String sweep
-77 Solo violin 2
-78 Double basses
-79 Ominous
-80 Piano 3
-81 Electric piano 4
-82 Loud piano
-83 Piano FX
-84 Clavichord
-85 Harpsichord 2
-86 Acoustic guitar
-87 Bass piano
-88 Organ 3
-89 Organ 4
-90 Chowa organ
-91 Pipe organ 3
-92 Accordion
-93 Vocoder
-94 Voices 2
-95 Harmonica
-96 Synth sweep
-97 Poly pulse
-98 Cosmo sweep
-99 Chorus pluck
-100 Bells 2
-101 Vibe
-102 Koto
-103 Bell chime 3
-104 Lead synth 5
-105 Lead synth 6
-106 Inv-solo
-107 Clarinet
-108 Oboe
-109 Synth bass 3
-110 Synth bass 4
-111 Upright bass
-112 Machines
-113 Echo explosion
-114 Ooops
-115 Jet chord
-116 Take-off
-117 Whistle
-118 Surprise
-119 Oct jump
-120 Jet
-121 Helicopter
-122 Dogs bark
-123 WET
-124 Oooh SCARY
-125 What the..?
-126 Synth toms
-127 Kick
+0	Poly synth 1
+1	Jazz guitar
+2	Xylophone
+3	Low strings
+4	Lead synth 1
+5	Chorus guitar
+6	Synth bass 1
+7	Electro drum
+8	High strings
+9	Techno strings
+10	String organ
+11	Fast strings
+12	Long strings
+13	Cello
+14	Solo violin
+15	Pizzicato
+16	Piano 1
+17	Electric piano 1
+18	Electric piano 2
+19	Piano 2
+20	Electric piano 3
+21	Clav.
+22	Harpsichord
+23	Piano pad
+24	Organ 1
+25	Organ 2
+26	Cheesy organ
+27	Pipe organ 1
+28	Pipe organ 2
+29	Voice pad
+30	Sinusoidal
+31	Voices 1
+32	Brass 1
+33	Syn rise
+34	Spit valve
+35	Fat synth
+36	Arpeggiator
+37	Velo-reso 1
+38	Big brass
+39	Pad 1
+40	Lead synth 2
+41	Lead synth 3
+42	Flute
+43	Lead synth 4
+44	Sax
+45	Electric bass 1
+46	Synth bass 2
+47	Sequencer bass
+48	Bells 1
+49	Bell chime 1
+50	Bell chime 2
+51	Syn-bello
+52	Marimba
+53	Synth koto
+54	Steel drum band
+55	Harp
+56	Tron blast
+57	Noise shots
+58	Twilight Zone
+59	Scratchin'
+60	Syn echo
+61	Pole position
+62	UFO
+63	Timps
+64	Brass 2
+65	Brass 3
+66	Brass horns
+67	Fat brass 1
+68	Trumpets
+69	Brass swell
+70	Poly synth 2
+71	Poly synth 3
+72	Bowed strings
+73	Rich strings
+74	Orchestra
+75	Syn orchestra
+76	String sweep
+77	Solo violin 2
+78	Double basses
+79	Ominous
+80	Piano 3
+81	Electric piano 4
+82	Loud piano
+83	Piano FX
+84	Clavichord
+85	Harpsichord 2
+86	Acoustic guitar
+87	Bass piano
+88	Organ 3
+89	Organ 4
+90	Chowa organ
+91	Pipe organ 3
+92	Accordion
+93	Vocoder
+94	Voices 2
+95	Harmonica
+96	Synth sweep
+97	Poly pulse
+98	Cosmo sweep
+99	Chorus pluck
+100	Bells 2
+101	Vibe
+102	Koto
+103	Bell chime 3
+104	Lead synth 5
+105	Lead synth 6
+106	Inv-solo
+107	Clarinet
+108	Oboe
+109	Synth bass 3
+110	Synth bass 4
+111	Upright bass
+112	Machines
+113	Echo explosion
+114	Ooops
+115	Jet chord
+116	Take-off
+117	Whistle
+118	Surprise
+119	Oct jump
+120	Jet
+121	Helicopter
+122	Dogs bark
+123	WET
+124	Oooh SCARY
+125	What the..?
+126	Synth toms
+127	Kick

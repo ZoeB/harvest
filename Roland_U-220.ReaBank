@@ -1,132 +1,132 @@
-// Roland U-220 programs.  ReaBank file by ZoeB.
+//	Roland U-220 programs.  ReaBank file by ZoeB.
 
-Bank 0 0 N/A
+Bank	0 0 N/A
 
-0 Acoustic piano 1
-1 Acoustic piano 2
-2 Acoustic piano 3
-3 Acoustic piano 4
-4 Acoustic piano 5
-5 Acoustic piano 6
-6 Acoustic piano 7
-7 Acoustic piano 8
-8 Acoustic piano 9
-9 Acoustic piano 10
-10 Electric piano 1
-11 Electric piano 2
-12 Electric piano 3
-13 Electric piano 4
-14 Electric piano 5
-15 Bright electric piano 1
-16 Bright electric piano 2
-17 Vibraphone 1
-18 Vibraphone 2
-19 Vibraphone 3
-20 Bell 1
-21 Bell 2
-22 Marimba
-23 Acoustic guitar 1
-24 Acoustic guitar 2
-25 Acoustic guitar 3
-26 Acoustic guitar 4
-27 Acoustic guitar 5
-28 Electric guitar 1
-29 Electric guitar 2
-30 Electric guitar 3
-31 Electric guitar 4
-32 Heavy electric guitar 1
-33 Heavy electric guitar 2
-34 Slap bass 1
-35 Slap bass 2
-36 Slap bass 3
-37 Slap bass 4
-38 Slap bass 5
-39 Slap bass 6
-40 Slap bass 7
-41 Slap bass 8
-42 Slap bass 9
-43 Slap bass 10
-44 Slap bass 11
-45 Slap bass 12
-46 Fingered bass 1
-47 Fingered bass 2
-48 Picked bass 1
-49 Picked bass 2
-50 Fretless bass 1
-51 Fretless bass 2
-52 Acoustic bass
-53 Synth bass 1
-54 Synth bass 2
-55 Synth bass 3
-56 Synth bass 4
-57 Synth bass 5
-58 Synth bass 6
-59 Synth bass 7
-60 Synth bass 8
-61 Choir 1
-62 Choir 2
-63 Choir 3
-64 Choir 4
-65 Strings 1
-66 Strings 2
-67 Strings 3
-68 Strings 4
-69 Electric organ 1
-70 Electric organ 2
-71 Electric organ 3
-72 Electric organ 4
-73 Electric organ 5
-74 Electric organ 6
-75 Electric organ 7
-76 Electric organ 8
-77 Electric organ 9
-78 Reed organ 1
-79 Reed organ 2
-80 Soft trumpet 1
-81 Soft trumpet 2
-82 Trumpet / trombone 1
-83 Trumpet / trombone 2
-84 Trumpet / trombone 3
-85 Sax 1
-86 Sax 2
-87 Sax 3
-88 Sax 4
-89 Sax 5
-90 Brass
-91 Flute
-92 Shaku 1
-93 Shaku 2
-94 Fantasia
-95 Bell pad
-96 Synth choir
-97 Breath vox
-98 Synth vox 1
-99 Synth vox 2
-100 L. calliope
-101 Calliope
-102 Metal hit
-103 Rich brass
-104 Jupiter brass 1
-105 Jupiter brass 2
-106 Brass and strings
-107 String pad 1
-108 String pad 2
-109 Jupiter strings
-110 Pizzagogo
-111 Fantasy bell
-112 Spectrum bell
-113 Bell drum
-114 Synth harp
-115 Pulse wave 1
-116 Pulse wave 2
-117 Pulse wave 3
-118 Saw wave 1
-119 Saw wave 2
-120 Pizzicato
-121 Metal
-122 Breath
-123 Nails
-124 Spectrum 1
-125 Spectrum 2
-126 N. dance
-127 Drums
+0	Acoustic piano 1
+1	Acoustic piano 2
+2	Acoustic piano 3
+3	Acoustic piano 4
+4	Acoustic piano 5
+5	Acoustic piano 6
+6	Acoustic piano 7
+7	Acoustic piano 8
+8	Acoustic piano 9
+9	Acoustic piano 10
+10	Electric piano 1
+11	Electric piano 2
+12	Electric piano 3
+13	Electric piano 4
+14	Electric piano 5
+15	Bright electric piano 1
+16	Bright electric piano 2
+17	Vibraphone 1
+18	Vibraphone 2
+19	Vibraphone 3
+20	Bell 1
+21	Bell 2
+22	Marimba
+23	Acoustic guitar 1
+24	Acoustic guitar 2
+25	Acoustic guitar 3
+26	Acoustic guitar 4
+27	Acoustic guitar 5
+28	Electric guitar 1
+29	Electric guitar 2
+30	Electric guitar 3
+31	Electric guitar 4
+32	Heavy electric guitar 1
+33	Heavy electric guitar 2
+34	Slap bass 1
+35	Slap bass 2
+36	Slap bass 3
+37	Slap bass 4
+38	Slap bass 5
+39	Slap bass 6
+40	Slap bass 7
+41	Slap bass 8
+42	Slap bass 9
+43	Slap bass 10
+44	Slap bass 11
+45	Slap bass 12
+46	Fingered bass 1
+47	Fingered bass 2
+48	Picked bass 1
+49	Picked bass 2
+50	Fretless bass 1
+51	Fretless bass 2
+52	Acoustic bass
+53	Synth bass 1
+54	Synth bass 2
+55	Synth bass 3
+56	Synth bass 4
+57	Synth bass 5
+58	Synth bass 6
+59	Synth bass 7
+60	Synth bass 8
+61	Choir 1
+62	Choir 2
+63	Choir 3
+64	Choir 4
+65	Strings 1
+66	Strings 2
+67	Strings 3
+68	Strings 4
+69	Electric organ 1
+70	Electric organ 2
+71	Electric organ 3
+72	Electric organ 4
+73	Electric organ 5
+74	Electric organ 6
+75	Electric organ 7
+76	Electric organ 8
+77	Electric organ 9
+78	Reed organ 1
+79	Reed organ 2
+80	Soft trumpet 1
+81	Soft trumpet 2
+82	Trumpet / trombone 1
+83	Trumpet / trombone 2
+84	Trumpet / trombone 3
+85	Sax 1
+86	Sax 2
+87	Sax 3
+88	Sax 4
+89	Sax 5
+90	Brass
+91	Flute
+92	Shaku 1
+93	Shaku 2
+94	Fantasia
+95	Bell pad
+96	Synth choir
+97	Breath vox
+98	Synth vox 1
+99	Synth vox 2
+100	L. calliope
+101	Calliope
+102	Metal hit
+103	Rich brass
+104	Jupiter brass 1
+105	Jupiter brass 2
+106	Brass and strings
+107	String pad 1
+108	String pad 2
+109	Jupiter strings
+110	Pizzagogo
+111	Fantasy bell
+112	Spectrum bell
+113	Bell drum
+114	Synth harp
+115	Pulse wave 1
+116	Pulse wave 2
+117	Pulse wave 3
+118	Saw wave 1
+119	Saw wave 2
+120	Pizzicato
+121	Metal
+122	Breath
+123	Nails
+124	Spectrum 1
+125	Spectrum 2
+126	N. dance
+127	Drums
