@@ -1,0 +1,132 @@
+//	Roland P-330 programs.  Transcribed by ZoeB.
+
+Bank	0 0 N/A
+
+0	
+1	
+2	
+3	
+4	
+5	
+6	
+7	
+8	
+9	
+10	Piano 1
+11	Piano 2
+12	Piano 3
+13	Harpsichord
+14	Clavi
+15	Vibraphone
+16	E. Piano 1
+17	E. Piano 2
+18	
+19	
+20	Soft Piano 1
+21	Cut Piano 1
+22	Long Piano 1
+23	Flutter Piano 1
+24	Loud Piano 1
+25	Broken Piano 1
+26	Tight Piano 1
+27	Ring Piano 1
+28	
+29	
+30	Soft Piano 2
+31	Cut Piano 2
+32	Long Piano 2
+33	Flutter Piano 2
+34	Loud Piano 2
+35	Broken Piano 2
+36	Tight Piano 2
+37	Ring Piano 2
+38	
+39	
+40	Soft Piano 3
+41	Cut Piano 3
+42	Long Piano 3
+43	Flutter Piano 3
+44	Loud Piano 3
+45	Broken Piano 3
+46	Tight Piano 3
+47	Ring Piano 3
+48	
+49	
+50	Harpsichord A
+51	Harpsichord B
+52	Harpsichord C
+53	Harpsichord D
+54	Clavi A
+55	Clavi B
+56	Clavi C
+57	Clavi D
+58	
+59	
+60	Vibraphone A
+61	Cut Vib A
+62	Cut Vib B
+63	Cut Vib C
+64	Long Vib A
+65	Long Vib B
+66	Long Vib C
+67	Long Vib D
+68	
+69	
+70	Soft E. Piano 1
+71	Cut E. Piano 1
+72	Long E. Piano 1
+73	Flutter E. P 1
+74	Loud E. Piano 1
+75	Broken E. P 1
+76	Tight E. Piano 1
+77	Ring E. Piano 1
+78	
+79	
+80	Soft E. Piano 2
+81	Cut E. Piano 2
+82	Long E. Piano 2
+83	Flutter E. P 2
+84	Loud E. Piano 2
+85	Broken E. P 2
+86	Tight E. Piano 2
+87	Ring E. Piano 2
+88	
+89	
+90	
+91	
+92	
+93	
+94	
+95	
+96	
+97	
+98	
+99	
+100	
+101	
+102	
+103	
+104	
+105	
+106	
+107	
+108	
+109	
+110	
+111	
+112	
+113	
+114	
+115	
+116	
+117	
+118	
+119	
+120	
+121	
+122	
+123	
+124	
+125	
+126	
+127	
