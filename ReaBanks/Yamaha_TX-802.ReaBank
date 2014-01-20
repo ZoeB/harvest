@@ -1,0 +1,132 @@
+//	Yamaha TX-802 programs.  Transcribed by ZoeB.
+
+Bank	0 0 N/A
+
+0	MellowHorn
+1	SilvaBrass
+2	ReverbBras
+3	Tuba
+4	Trombone
+5	HardTrumps
+6	Trumpet A
+7	SilvaTrmpt
+8	Trumpet B
+9	FrenchHorn
+10	Strings
+11	HallOrch
+12	NewOrchest
+13	Analog-Str
+14	LiveStrg
+15	BowedBass
+16	EleCello A
+17	EleCello B
+18	Violins
+19	Bassoon
+20	Clarinet
+21	Oboe
+22	Flute
+23	SongFlute
+24	SpitFlute
+25	PanFloot
+26	Piccolo
+27	Sax
+28	Harmonica
+29	Harp
+30	EbonyIvory
+31	PianoBrite
+32	Piano 1
+33	Piano 2
+34	KnockRoad
+35	RubbaRoad
+36	HardRoads
+37	FullTines
+38	ClaviStuff
+39	Clavi
+40	Clavicin
+41	ClaviPluck
+42	NasalClav
+43	HarpsiBox
+44	HarpsiWire
+45	WireStrg A
+46	WireStrg B
+47	TouchOrgan
+48	ShOrgan
+49	TapOrgan
+50	BriteOrgan
+51	MagicOrgan
+52	SoftOrgan
+53	PipeOrgan
+54	PuffOrgan1
+55	PuffPipes
+56	PuffOrgan2
+57	Harmonium1
+58	Harmonium2
+59	Whisper A
+60	Choir
+61	LadyVox
+62	MaleChoir
+63	Whisper B
+64	SuperBass
+65	StringBass
+66	SkweekBass
+67	SmoohBass
+68	BopBass
+69	OwlBass
+70	JazzBass
+71	HardBass
+72	GuitarBox
+73	PickGuitar
+74	FingaPicka
+75	LeadaPicka
+76	YesBunk
+77	12 Strings
+78	Classipika
+79	Shami
+80	Maribumba
+81	DX Marimba
+82	Nu Marimba
+83	StonePhone
+84	VibraPhone
+85	Celeste
+86	Swissnare
+87	Tom C4
+88	CongaDrum
+89	Tub Bells
+90	Gong
+91	Timpani
+92	Claves
+93	Bells
+94	SteelCans
+95	Handrum
+96	Analog-X
+97	FMilters
+98	Phasers
+99	Ensemble
+100	MalletHorn
+101	FM-Growth
+102	ElectoComb
+103	ClariSolo
+104	PitchaPad
+105	ClaviBrass
+106	WhapSynth
+107	Whasers
+108	Fifths
+109	ElecBrass
+110	ElecroBak
+111	HarmoSynth
+112	PianoBells
+113	St.Elmo's
+114	MilkyWays
+115	Pluk
+116	TingVoice
+117	Plukatan
+118	OctiLate
+119	LateDown
+120	Glastine
+121	BellWahh
+122	RubberGong
+123	Wallop
+124	Explosion
+125	KoikeCycle
+126	Thunderon
+127	Science
