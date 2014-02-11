@@ -1,0 +1,656 @@
+//	Roland JV-1080 programs.  Transcribed by ZoeB.
+
+Bank	80 0 User
+
+0	Symphonique
+1	Alternative
+2	Velo Tekno 1
+3	West Coast
+4	Albion
+5	Jz Gtr Hall
+6	Rocker Spin
+7	101 Bass
+8	Claviduck
+9	Jet Pad 2
+10	Raggatronic
+11	Crunch Split
+12	Running Pad
+13	Brass Sect
+14	Flying Waltz
+15	Pure Tibet
+16	4 Hits 4 You
+17	Waterhodes
+18	Blade Racer
+19	JC Strat
+20	Dawn 2 Dusk
+21	Saw Mass
+22	Steel Away
+23	64voicePiano
+24	Wave Bells
+25	JP-8Haunting
+26	Vanishing
+27	Harmonica
+28	Film Octaves
+29	Edye Boost
+30	AugerMentive
+31	Deep Strings
+32	Chime Wash
+33	SA Rhodes 1
+34	3D Flanged
+35	Ac.Upright
+36	Poly Brass
+37	Dissimilate
+38	Dulcimer
+39	Fantasy Vox
+40	Dist Gtr 1
+41	Sax Section
+42	Aurora
+43	St.Strings
+44	AmbienceVibe
+45	Cascade
+46	AltoLead Sax
+47	PWM Strings
+48	Childlike
+49	Velo Tekno 2
+50	Taj Mahal
+51	D-50 Stack
+52	ChamberWoods
+53	Pulse Key
+54	Mondo Bass
+55	Velo-Wah Gtr
+56	Sitar
+57	Purple Spin
+58	RandomVowels
+59	Big BPF
+60	Dunes
+61	Heirborne
+62	PsychoRhodes
+63	Tortured
+64	Bass Marimba
+65	Syncrosonix
+66	MandolinTrem
+67	Poly Saws
+68	Pulse Pad
+69	Nylon Gtr
+70	ORBit Pad
+71	Majestic Tpt
+72	Terminate
+73	SquareLead 1
+74	House Piano
+75	Fooled Again
+76	Pick Bass
+77	Wide Tubular
+78	Velo-Rez Clv
+79	Airplaaane
+80	Delicate EP
+81	Rezoid
+82	E-Motion Pad
+83	Phripphuzz
+84	Archimede
+85	Intentions
+86	Nylon Rhodes
+87	Huff N Stuff
+88	Finger Bass
+89	Gospel Spin
+90	Harmonicum
+91	Impact
+92	Rotary Gtr
+93	Tp&Sax Sect
+94	Tubular Vox
+95	Sawteeth
+96	Ocean Floor
+97	E.Grand
+98	Clarinet mp
+99	Bass In Face
+100	BritelowBass
+101	Mellow Bars
+102	LetterFrmPat
+103	MG Solo
+104	Air Lead
+105	Raya Shaku
+106	Greek Power
+107	Biosphere
+108	EP+Mod Pad
+109	Chambers
+110	Nomad Perc
+111	Horn Swell
+112	Hillbillys
+113	Night Shade
+114	Nice Piano
+115	VOX Flute
+116	Music Bells
+117	JUNO Strings
+118	Bs/Pno+Brs
+119	Dark Vox
+120	Bass Pizz
+121	Seq Mallet
+122	Variable Run
+123	Cyber Space
+124	12str Gtr 1
+125	PianoStrings
+126	Sands ofTime
+127	Fantasia JV
+
+Bank	81 0 Preset A
+
+0	64voicePiano
+1	Bright Piano
+2	Classique
+3	Nice Piano
+4	Piano Thang
+5	Power Grand
+6	House Piano
+7	E.Grand
+8	MIDIed Grand
+9	Piano Blend
+10	West Coast
+11	PianoStrings
+12	Bs/Pno+Brs
+13	Waterhodes
+14	S.A.E.P.
+15	SA Rhodes 1
+16	SA Rhodes 2
+17	Stiky Rhodes
+18	Dig Rhodes
+19	Nylon EPiano
+20	Nylon Rhodes
+21	Rhodes Mix
+22	PsychoRhodes
+23	Tremo Rhodes
+24	MK-80 Rhodes
+25	MK-80 Phaser
+26	Delicate EP
+27	Octa Rhodes1
+28	Octa Rhodes2
+29	JV Rhodes+
+30	EP+Mod Pad
+31	Mr.Mellow
+32	Comp Clav
+33	Klavinet
+34	Winger Clav
+35	Phaze Clav 1
+36	Phaze Clav 2
+37	Phuzz Clav
+38	Chorus Clav
+39	Claviduck
+40	Velo-Rez Clv
+41	Clavicembalo
+42	Analog Clav1
+43	Analog Clav2
+44	Metal Clav
+45	Full Stops
+46	Ballad B
+47	Mellow Bars
+48	AugerMentive
+49	Perky B
+50	The Big Spin
+51	Gospel Spin
+52	Roller Spin
+53	Rocker Spin
+54	Tone Wh.Solo
+55	Purple Spin
+56	60's LeadORG
+57	Assalt Organ
+58	D-50 Organ
+59	Cathedral
+60	Church Pipes
+61	Poly Key
+62	Poly Saws
+63	Poly Pulse
+64	Dual Profs
+65	Saw Mass
+66	Poly Split
+67	Poly Brass
+68	Stackoid
+69	Poly Rock
+70	D-50 Stack
+71	Fantasia JV
+72	Jimmee Dee
+73	Heavenals
+74	Mallet Pad
+75	Huff N Stuff
+76	Puff 1080
+77	BellVox 1080
+78	Fantasy Vox
+79	Square Keys
+80	Childlike
+81	Music Box
+82	Toy Box
+83	Wave Bells
+84	Tria Bells
+85	Beauty Bells
+86	Music Bells
+87	Pretty Bells
+88	Pulse Key
+89	Wide Tubular
+90	Ambience Vibe
+91	Warm Vibes
+92	Dyna Marimba
+93	Bass Marimba
+94	Nomad Perc
+95	Ethno Metals
+96	Islands Mlt
+97	Steelin Keys
+98	Steel Drums
+99	Voicey Pizz
+100	Sitar
+101	Drone Split
+102	Ethnopluck
+103	Jamisen
+104	Dulcimer
+105	East Melody
+106	MandolinTrem
+107	Nylon Gtr
+108	Gtr Strings
+109	Steel Away
+110	Heavenly Gtr
+111	12str Gtr 1
+112	12str Gtr 2
+113	Jz Gtr Hall
+114	LetterFrmPat
+115	Jazz Scat
+116	Lounge Gig
+117	JC Strat
+118	Twin Strats
+119	JV Strat
+120	Syn Strat
+121	Rotary Gtr
+122	Muted Gtr
+123	SwitchOnMute
+124	Power Trip
+125	Crunch Split
+126	Rezodrive
+127	RockYurSocks
+
+Bank	81 1 Preset B
+
+0	Dist Gtr 1
+1	Dist Gtr 2
+2	R&R Chunk
+3	Phripphuzz
+4	Grungeroni
+5	Black Widow
+6	Velo-Wah Gtr
+7	Mod-Wah Gtr
+8	Pick Bass
+9	Hip Bass
+10	Perc.Bass
+11	Homey Bass
+12	Finger Bass
+13	Nylon Bass
+14	Ac.Upright
+15	Wet Fretls
+16	Fretls Dry
+17	Slap Bass 1
+18	Slap Bass 2
+19	Slap Bass 3
+20	Slap Bass 4
+21	4 Pole Bass
+22	Tick Bass
+23	House Bass
+24	Mondo Bass
+25	Clk AnalogBs
+26	Bass In Face
+27	101 Bass
+28	Noiz Bass
+29	Super Jup Bs
+30	Occitan Bass
+31	Hugo Bass
+32	Multi Bass
+33	Moist Bass
+34	BritelowBass
+35	Untamed Bass
+36	Rubber Bass
+37	Stereoww Bs
+38	Wonder Bass
+39	Deep Bass
+40	Super JX Bs
+41	W<RED>-Bass
+42	HI-Ring Bass
+43	Euro Bass
+44	SinusoidRave
+45	Alternative
+46	Acid Line
+47	Auto TB-303
+48	Hihat Tekno
+49	Velo Tekno 1
+50	Raggatronic
+51	Blade Racer
+52	S&H Pad
+53	Syncrosonix
+54	Fooled Again
+55	Alive
+56	Velo Tekno 2
+57	Rezoid
+58	Raverborg
+59	Blow Hit
+60	Hammer Bell
+61	Seq Mallet
+62	Intentions
+63	Pick It
+64	Analog Seq
+65	Impact Vox
+66	TeknoSoloVox
+67	X-Mod Man
+68	Paz <==> Zap
+69	4 Hits 4 You
+70	Impact
+71	Phase Hit
+72	Tekno Hit 1
+73	Tekno Hit 2
+74	Tekno Hit 3
+75	Reverse Hit
+76	SquareLead 1
+77	SquareLead 2
+78	You and Luck
+79	Belly Lead
+80	WhistlinAtom
+81	Edye Boost
+82	MG Solo
+83	FXM Saw Lead
+84	Sawteeth
+85	Smoothe
+86	MG Lead
+87	MG Interval
+88	Pulse Lead 1
+89	Pulse Lead 2
+90	Little Devil
+91	Loud SynLead
+92	Analog Lead
+93	5th Lead
+94	Flute
+95	Piccolo
+96	VOX Flute
+97	Air Lead
+98	Pan Pipes
+99	Airplaaane
+100	Taj Mahal
+101	Raya Shaku
+102	Oboe mf
+103	Oboe Express
+104	Clarinet mp
+105	ClariExpress
+106	Mitzva Split
+107	ChamberWinds
+108	ChamberWoods
+109	Film Orch
+110	Sop.Sax mf
+111	Alto Sax
+112	AltoLead Sax
+113	Tenor Sax
+114	Baritone Sax
+115	Take A Tenor
+116	Sax Section
+117	Bigband Sax
+118	Harmonica
+119	Harmo Blues
+120	BluesHarp
+121	Hillbillys
+122	French Bags
+123	Majestic Tpt
+124	Voluntare
+125	2Trumpets
+126	Tpt Sect
+127	Mute TP mod
+
+Bank	81 2 Preset C
+
+0	Harmon Mute
+1	Tp&Sax Sect
+2	Sax+Tp+Tb
+3	Brass Sect
+4	Trombone
+5	Hybrid Bones
+6	Noble Horns
+7	Massed Horns
+8	Horn Swell
+9	Brass It!
+10	Brass Attack
+11	Archimede
+12	Rugby Horn
+13	MKS-80 Brass
+14	True ANALOG
+15	Dark Vox
+16	RandomVowels
+17	Angels Sing
+18	Pvox Oooze
+19	Longing...
+20	Arasian Morn
+21	Beauty Vox
+22	Mary-AnneVox
+23	Belltree Vox
+24	Vox Panner
+25	Spaced Voxx
+26	Glass Voices
+27	Tubular Vox
+28	Velo Voxx
+29	Wavox
+30	Doos
+31	Synvox Comps
+32	Vocal Oohz
+33	LFO Vox
+34	St.Strings
+35	Warm Strings
+36	Somber Str
+37	Marcato
+38	Bright Str
+39	String Ens
+40	TremoloStrng
+41	Chambers
+42	ViolinCello
+43	Symphonique
+44	Film Octaves
+45	Film Layers
+46	Bass Pizz
+47	Real Pizz
+48	Harp On It
+49	Harp
+50	JP-8 Str 1
+51	JP-8 Str 2
+52	E-Motion Pad
+53	JP-8 Str 3
+54	Vintage Orch
+55	JUNO Strings
+56	Gigantalog
+57	PWM Strings
+58	Warmth
+59	ORBit Pad
+60	Deep Strings
+61	Pulsify
+62	Pulse Pad
+63	Greek Power
+64	Harmonicum
+65	D-50 Heaven
+66	Afro Horns
+67	Pop Pad
+68	Dreamesque
+69	Square Pad
+70	JP-8 Hollow
+71	JP-8Haunting
+72	Heirborne
+73	Hush Pad
+74	Jet Pad 1
+75	Jet Pad 2
+76	Phaze Pad
+77	Phaze Str
+78	Jet Str Ens
+79	Pivotal Pad
+80	3D Flanged
+81	Fantawine
+82	Glassy Pad
+83	Moving Glass
+84	Glasswaves
+85	Shiny Pad
+86	ShiftedGlass
+87	Chime Pad
+88	Spin Pad
+89	Rotary Pad
+90	Dawn 2 Dusk
+91	Aurora
+92	Strobe Mode
+93	Albion
+94	Running Pad
+95	Stepped Pad
+96	Random Pad
+97	SoundtrkDANC
+98	Flying Waltz
+99	Vanishing
+100	5th Sweep
+101	Phazweep
+102	Big BPF
+103	MG Sweep
+104	CeremonyTimp
+105	Dyno Toms
+106	Sands ofTime
+107	Inertia
+108	Vektogram
+109	Crash Pad
+110	Feedback VOX
+111	Cascade
+112	Shattered
+113	NextFrontier
+114	Pure Tibet
+115	Chime Wash
+116	Night Shade
+117	Tortured
+118	Dissimilate
+119	Dunes
+120	Ocean Floor
+121	Cyber Space
+122	Biosphere
+123	Variable Run
+124	Ice Hall
+125	ComputerRoom
+126	Inverted
+127	Terminate
+
+Bank	81 3 Preset D (General MIDI Patch)
+
+0	Piano 1
+1	Piano 2
+2	Piano 3
+3	Honky-tonk
+4	E.Piano 1
+5	E.Piano 2
+6	Harpsichord
+7	Clav.
+8	Celesta
+9	Glockenspiel
+10	Music Box
+11	Vibraphone
+12	Marimba
+13	Xylophone
+14	Tubular-bell
+15	Santur
+16	Organ 1
+17	Organ 2
+18	Organ 3
+19	Church Org.1
+20	Reed Organ
+21	Accordion Fr
+22	Harmonica
+23	Bandneon
+24	Nylon-str.Gt
+25	Steel-str.Gt
+26	Jazz Gt.
+27	Clean Gt.
+28	Muted Gt.
+29	Overdrive Gt
+30	DistortionGt
+31	Gt.Harmonics
+32	Acoustic Bs.
+33	Fingered Bs.
+34	Picked Bs.
+35	Fretless Bs.
+36	Slap Bass 1
+37	Slap Bass 2
+38	Synth Bass 1
+39	Synth Bass 2
+40	Violin
+41	Viola
+42	Cello
+43	Contrabass
+44	Tremolo Str
+45	PizzicatoStr
+46	Harp
+47	Timpani
+48	Strings
+49	Slow Strings
+50	Syn.Strings1
+51	Syn.Strings2
+52	Choir Aahs
+53	Voice Oohs
+54	SynVox
+55	OrchestraHit
+56	Trumpet
+57	Trombone
+58	Tuba
+59	MutedTrumpet
+60	French Horn
+61	Brass 1
+62	Synth Brass1
+63	Synth Brass2
+64	Soprano Sax
+65	Alto Sax
+66	Tenor Sax
+67	Baritone Sax
+68	Oboe
+69	English Horn
+70	Bassoon
+71	Clarinet
+72	Piccolo
+73	Flute
+74	Recorder
+75	Pan Flute
+76	Bottle Blow
+77	Shakuhachi
+78	Whistle
+79	Ocarina
+80	Square Wave
+81	Saw Wave
+82	Syn.Calliope
+83	Chiffer Lead
+84	Charang
+85	Solo Vox
+86	5th Saw Wave
+87	Bass & Lead
+88	Fantasia
+89	Warm Pad
+90	Polysynth
+91	Space Voice
+92	Bowed Glass
+93	Metal Pad
+94	Halo Pad
+95	Sweep Pad
+96	Ice Rain
+97	Soundtrack
+98	Crystal
+99	Atmosphere
+100	Brightness
+101	Goblin
+102	Echo Drops
+103	Star Theme
+104	Sitar
+105	Banjo
+106	Shamisen
+107	Koto
+108	Kalimba
+109	Bag Pipe
+110	Fiddle
+111	Shanai
+112	Tinkle Bell
+113	Agogo
+114	Steel Drums
+115	Woodblock
+116	Taiko
+117	Melo. Tom 1
+118	Synth Drum
+119	Reverse Cym.
+120	Gt.FretNoise
+121	Breath Noise
+122	Seashore
+123	Bird
+124	Telephone 1
+125	Helicopter
+126	Applause
+127	Gun shot
