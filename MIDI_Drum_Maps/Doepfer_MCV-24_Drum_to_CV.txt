@@ -1,4 +1,4 @@
-//	Novation DrumStation note map.  Transcribed by ZoeB.
+//	Doepfer MCV-24 Drum to CV note map.  Transcribed by ZoeB.
 
 0	
 1	
