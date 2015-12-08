@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "5.1/OSX64" 1449579010
+<REAPER_PROJECT 0.1 "5.1/OSX64" 1449579107
   RIPPLE 0
   GROUPOVERRIDE 0 0 0
   AUTOXFADE 1
@@ -479,8 +479,8 @@
     BUSCOMP 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
     FREEMODE 0
-    SEL 0
-    REC 0 2 0 0 0 0 0
+    SEL 1
+    REC 0 0 0 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0
     INQ 0 0 0 0.5 100 0 0 100
@@ -504,7 +504,7 @@
     SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
     FREEMODE 0
     SEL 0
-    REC 0 2 0 0 0 0 0
+    REC 0 0 0 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0
     INQ 0 0 0 0.5 100 0 0 100
@@ -528,7 +528,7 @@
     SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
     FREEMODE 0
     SEL 0
-    REC 0 2 0 0 0 0 0
+    REC 0 0 0 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0
     INQ 0 0 0 0.5 100 0 0 100
@@ -552,7 +552,7 @@
     SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
     FREEMODE 0
     SEL 0
-    REC 0 2 0 0 0 0 0
+    REC 0 0 0 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0
     INQ 0 0 0 0.5 100 0 0 100
@@ -576,7 +576,7 @@
     SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
     FREEMODE 0
     SEL 0
-    REC 0 2 0 0 0 0 0
+    REC 0 0 0 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0
     INQ 0 0 0 0.5 100 0 0 100
@@ -600,7 +600,7 @@
     SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
     FREEMODE 0
     SEL 0
-    REC 0 2 0 0 0 0 0
+    REC 0 0 0 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0
     INQ 0 0 0 0.5 100 0 0 100
@@ -624,7 +624,7 @@
     SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
     FREEMODE 0
     SEL 0
-    REC 0 2 0 0 0 0 0
+    REC 0 0 0 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0
     INQ 0 0 0 0.5 100 0 0 100
@@ -648,7 +648,7 @@
     SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
     FREEMODE 0
     SEL 0
-    REC 0 2 0 0 0 0 0
+    REC 0 0 0 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0
     INQ 0 0 0 0.5 100 0 0 100
@@ -672,7 +672,7 @@
     SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
     FREEMODE 0
     SEL 0
-    REC 0 2 0 0 0 0 0
+    REC 0 0 0 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0
     INQ 0 0 0 0.5 100 0 0 100
@@ -696,7 +696,7 @@
     SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
     FREEMODE 0
     SEL 0
-    REC 0 2 0 0 0 0 0
+    REC 0 0 0 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0
     INQ 0 0 0 0.5 100 0 0 100
@@ -720,7 +720,7 @@
     SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
     FREEMODE 0
     SEL 0
-    REC 0 2 0 0 0 0 0
+    REC 0 0 0 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0
     INQ 0 0 0 0.5 100 0 0 100
@@ -744,7 +744,7 @@
     SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
     FREEMODE 0
     SEL 0
-    REC 0 2 0 0 0 0 0
+    REC 0 0 0 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0
     INQ 0 0 0 0.5 100 0 0 100
@@ -768,7 +768,7 @@
     SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
     FREEMODE 0
     SEL 0
-    REC 0 2 0 0 0 0 0
+    REC 0 0 0 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0
     INQ 0 0 0 0.5 100 0 0 100
@@ -792,7 +792,7 @@
     SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
     FREEMODE 0
     SEL 0
-    REC 0 2 0 0 0 0 0
+    REC 0 0 0 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0
     INQ 0 0 0 0.5 100 0 0 100
@@ -816,7 +816,7 @@
     SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
     FREEMODE 0
     SEL 0
-    REC 0 2 0 0 0 0 0
+    REC 0 0 0 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0
     INQ 0 0 0 0.5 100 0 0 100
@@ -840,7 +840,7 @@
     SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
     FREEMODE 0
     SEL 0
-    REC 0 2 0 0 0 0 0
+    REC 0 0 0 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0
     INQ 0 0 0 0.5 100 0 0 100
@@ -864,7 +864,7 @@
     SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
     FREEMODE 0
     SEL 0
-    REC 0 2 0 0 0 0 0
+    REC 0 0 0 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0
     INQ 0 0 0 0.5 100 0 0 100
@@ -888,7 +888,7 @@
     SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
     FREEMODE 0
     SEL 0
-    REC 0 2 0 0 0 0 0
+    REC 0 0 0 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0
     INQ 0 0 0 0.5 100 0 0 100
@@ -912,7 +912,7 @@
     SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
     FREEMODE 0
     SEL 0
-    REC 0 2 0 0 0 0 0
+    REC 0 0 0 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0
     INQ 0 0 0 0.5 100 0 0 100
@@ -936,7 +936,7 @@
     SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
     FREEMODE 0
     SEL 0
-    REC 0 2 0 0 0 0 0
+    REC 0 0 0 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0
     INQ 0 0 0 0.5 100 0 0 100
@@ -960,7 +960,7 @@
     SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
     FREEMODE 0
     SEL 0
-    REC 0 2 0 0 0 0 0
+    REC 0 0 0 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0
     INQ 0 0 0 0.5 100 0 0 100
@@ -984,7 +984,7 @@
     SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
     FREEMODE 0
     SEL 0
-    REC 0 2 0 0 0 0 0
+    REC 0 0 0 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0
     INQ 0 0 0 0.5 100 0 0 100
@@ -1008,7 +1008,7 @@
     SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
     FREEMODE 0
     SEL 0
-    REC 0 2 0 0 0 0 0
+    REC 0 0 0 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0
     INQ 0 0 0 0.5 100 0 0 100
@@ -1032,7 +1032,7 @@
     SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
     FREEMODE 0
     SEL 0
-    REC 0 2 0 0 0 0 0
+    REC 0 0 0 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0
     INQ 0 0 0 0.5 100 0 0 100
@@ -1056,7 +1056,7 @@
     SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
     FREEMODE 0
     SEL 0
-    REC 0 2 0 0 0 0 0
+    REC 0 0 0 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0
     INQ 0 0 0 0.5 100 0 0 100
@@ -1080,7 +1080,7 @@
     SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
     FREEMODE 0
     SEL 0
-    REC 0 2 0 0 0 0 0
+    REC 0 0 0 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0
     INQ 0 0 0 0.5 100 0 0 100
@@ -1104,7 +1104,7 @@
     SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
     FREEMODE 0
     SEL 0
-    REC 0 2 0 0 0 0 0
+    REC 0 0 0 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0
     INQ 0 0 0 0.5 100 0 0 100
@@ -1128,7 +1128,7 @@
     SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
     FREEMODE 0
     SEL 0
-    REC 0 2 0 0 0 0 0
+    REC 0 0 0 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0
     INQ 0 0 0 0.5 100 0 0 100
@@ -1152,7 +1152,7 @@
     SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
     FREEMODE 0
     SEL 0
-    REC 0 2 0 0 0 0 0
+    REC 0 0 0 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0
     INQ 0 0 0 0.5 100 0 0 100
@@ -1176,7 +1176,7 @@
     SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
     FREEMODE 0
     SEL 0
-    REC 0 2 0 0 0 0 0
+    REC 0 0 0 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0
     INQ 0 0 0 0.5 100 0 0 100
@@ -1200,7 +1200,7 @@
     SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
     FREEMODE 0
     SEL 0
-    REC 0 2 0 0 0 0 0
+    REC 0 0 0 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0
     INQ 0 0 0 0.5 100 0 0 100
@@ -1224,7 +1224,7 @@
     SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
     FREEMODE 0
     SEL 0
-    REC 0 2 0 0 0 0 0
+    REC 0 0 0 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0
     INQ 0 0 0 0.5 100 0 0 100
