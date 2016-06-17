@@ -1,4 +1,4 @@
-//	Doepfer MCV-24 Drum to CV note map, for use with TR-808 style drum modules.  Transcribed by ZoeB.
+//	General MIDI electronic drums with MCV-24 outputs
 
 0	
 1	
@@ -35,47 +35,47 @@
 32	
 33	
 34	
-35	CV 1  Kick
-36	CV 2  Clap
-37	 
-38	CV 3  Snare
-39	
-40	CV 4  Rimshot
+35	CV 1  707 Kick
+36	CV 2  808 Kick
+37	      808 Rimshot
+38	CV 3  707 Snare
+39	      808 Clap
+40	CV 4  808 snare
 41	
-42	CV 5  Closed hi-hat
+42	CV 5  808 Closed hi-hat
 43	
-44	CV 6  Low tom / conga
-45	CV 7  Mid tom / conga
-46	CV 8  Open hi-hat
-47	
+44	CV 6
+45	CV 7  808 Low tom
+46	CV 8  808 Open hi-hat
+47	      808 Mid tom
 48	
-49	CV 9  Cymbal
-50	CV 10 High tom / conga
-51	CV 11 Maraca
+49	CV 9  808 Cymbal
+50	CV 10 808 High tom
+51	CV 11
 52	
-53	CV 12 Clave
+53	CV 12
 54	
 55	
-56	No CV Cowbell
+56	      808 Cowbell
 57	
 58	
 59	
 60	
 61	
-62	
-63	
-64	
+62	      808 Low conga
+63	      808 Mid conga
+64	      808 High conga
 65	
 66	
 67	
 68	
 69	
-70	
+70	      808 Maraca
 71	
 72	
 73	
 74	
-75	
+75	      808 Clave
 76	
 77	
 78	
