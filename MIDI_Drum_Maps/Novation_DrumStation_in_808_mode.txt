@@ -38,17 +38,17 @@
 35	
 36	808 bass drum
 37	808 rimshot
-38	808 snare drum (duplicate)
+38
 39	808 handclap
 40	808 snare drum
-41	808 low tom (duplicate)
+41
 42	808 closed hi-hat
 43	808 low tom
-44	808 closed hi-hat (duplicate)
-45	808 mid tom (duplicate)
+44
+45
 46	808 open hi-hat
 47	808 mid tom
-48	808 high tom (duplicate)
+48
 49	808 crash cymbal
 50	808 high tom
 51	909 ride cymbal

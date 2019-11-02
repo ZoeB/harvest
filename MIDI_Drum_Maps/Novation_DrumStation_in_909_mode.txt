@@ -38,17 +38,17 @@
 35	
 36	909 bass drum
 37	909 rimshot
-38	909 snare drum (duplicate)
+38
 39	909 handclap
 40	909 snare drum
-41	909 low tom (duplicate)
+41
 42	909 closed hi-hat
 43	909 low tom
-44	909 closed hi-hat (duplicate)
-45	909 mid tom (duplicate)
+44
+45
 46	909 open hi-hat
 47	909 mid tom
-48	909 high tom (duplicate)
+48
 49	909 crash cymbal
 50	909 high tom
 51	909 ride cymbal
