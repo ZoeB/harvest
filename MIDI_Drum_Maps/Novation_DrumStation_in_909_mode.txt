@@ -24,58 +24,58 @@
 21	
 22	
 23	
-24	TR-808 bass drum
-25	TR-808 rimshot
-26	TR-808 snare drum
-27	TR-808 handclap
-28	TR-808 low tom
-29	TR-808 mid tom
-30	TR-808 closed hi-hat
-31	TR-808 high tom
-32	TR-808 crash cymbal
-33	TR-909 ride cymbal
-34	TR-909 open hi-hat
+24	808 bass drum
+25	808 rimshot
+26	808 snare drum
+27	808 handclap
+28	808 low tom
+29	808 mid tom
+30	808 closed hi-hat
+31	808 high tom
+32	808 crash cymbal
+33	909 ride cymbal
+34	909 open hi-hat
 35	
-36	TR-909 bass drum
-37	TR-909 rimshot
-38	TR-909 snare drum (duplicate)
-39	TR-909 handclap
-40	TR-909 snare drum
-41	TR-909 low tom (duplicate)
-42	TR-909 closed hi-hat
-43	TR-909 low tom
-44	TR-909 closed hi-hat (duplicate)
-45	TR-909 mid tom (duplicate)
-46	TR-909 open hi-hat
-47	TR-909 mid tom
-48	TR-909 high tom (duplicate)
-49	TR-909 crash cymbal
-50	TR-909 high tom
-51	TR-909 ride cymbal
+36	909 bass drum
+37	909 rimshot
+38	909 snare drum (duplicate)
+39	909 handclap
+40	909 snare drum
+41	909 low tom (duplicate)
+42	909 closed hi-hat
+43	909 low tom
+44	909 closed hi-hat (duplicate)
+45	909 mid tom (duplicate)
+46	909 open hi-hat
+47	909 mid tom
+48	909 high tom (duplicate)
+49	909 crash cymbal
+50	909 high tom
+51	909 ride cymbal
 52	
 53	
 54	
 55	
-56	TR-808 cowbell
+56	808 cowbell
 57	
 58	
 59	
 60	
 61	
-62	TR-808 high conga
-63	TR-808 mid conga
-64	TR-808 low conga
+62	808 high conga
+63	808 mid conga
+64	808 low conga
 65	
 66	
 67	
 68	
 69	
-70	TR-808 maracas
+70	808 maracas
 71	
 72	
 73	
 74	
-75	TR-808 claves
+75	808 claves
 76	
 77	
 78	
