@@ -27,28 +27,28 @@
 24	TR-909 bass drum
 25	TR-909 rimshot
 26	TR-909 snare drum
-27	TR-909 hand clap
+27	TR-909 handclap
 28	TR-909 low tom
 29	TR-909 mid tom
 30	TR-909 closed hi-hat
 31	TR-909 high tom
-32	TR-909 crash symbal
+32	TR-909 crash cymbal
 33	TR-909 ride cymbal
 34	TR-909 open hi-hat
 35	
 36	TR-808 bass drum
 37	TR-808 rimshot
-38	TR-808 snare drum
-39	TR-808 hand clap
+38	TR-808 snare drum (duplicate)
+39	TR-808 handclap
 40	TR-808 snare drum
-41	TR-808 low tom
+41	TR-808 low tom (duplicate)
 42	TR-808 closed hi-hat
 43	TR-808 low tom
-44	TR-808 closed hi-hat
-45	TR-808 mid tom
+44	TR-808 closed hi-hat (duplicate)
+45	TR-808 mid tom (duplicate)
 46	TR-808 open hi-hat
 47	TR-808 mid tom
-48	TR-808 high tom
+48	TR-808 high tom (duplicate)
 49	TR-808 crash cymbal
 50	TR-808 high tom
 51	TR-909 ride cymbal
