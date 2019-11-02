@@ -1,4 +1,4 @@
-//	Novation DrumStation note map.  Transcribed by ZoeB.
+//	Novation DrumStation note map.  Transcribed by Zoë Blade.
 
 0	
 1	
@@ -24,58 +24,58 @@
 21	
 22	
 23	
-24	909 bass drum
-25	909 rimshot
-26	909 snare drum
-27	909 handclap
-28	909 low tom
-29	909 mid tom
-30	909 closed hi-hat
-31	909 high tom
-32	909 crash cymbal
-33	909 ride cymbal
-34	909 open hi-hat
+24	909 BD
+25	909 RS
+26	909 SD
+27	909 CP
+28	909 LT
+29	909 MT
+30	909 CH
+31	909 HT
+32	909 CY
+33	909 RD
+34	909 OH
 35	
-36	808 bass drum
-37	808 rimshot
+36	808 BD
+37	808 RS
 38
-39	808 handclap
-40	808 snare drum
+39	808 CP
+40	808 SD
 41
-42	808 closed hi-hat
-43	808 low tom
+42	808 CH
+43	808 LT
 44
 45
-46	808 open hi-hat
-47	808 mid tom
+46	808 OH
+47	808 MT
 48
-49	808 crash cymbal
-50	808 high tom
-51	909 ride cymbal
+49	808 CY
+50	808 HT
+51	909 RD
 52	
 53	
 54	
 55	
-56	808 cowbell
+56	808 CB
 57	
 58	
 59	
 60	
 61	
-62	808 high conga
-63	808 mid conga
-64	808 low conga
+62	808 HC
+63	808 MC
+64	808 LC
 65	
 66	
 67	
 68	
 69	
-70	808 maracas
+70	808 MA
 71	
 72	
 73	
 74	
-75	808 claves
+75	808 CL
 76	
 77	
 78	
